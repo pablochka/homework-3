@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: lightblue;
+}
+
+.mainClass {
+  background-color: white;
+  max-width: 320px;
+  height: auto;
+  margin: auto;
+  border-radius: 20px;
+  padding-top: 16px;
+}
+.blueBack {
+  background-color: blue;
+  padding: 64px;
+  border-radius: 10px;
+  margin: 16px;
+}
+.textClass {
+  text-align: center;
+  max-width: 700px;
+  padding-left: 32px;
+  padding-right: 32px;
+  background-color: white;
+  font-size: 11px;
+  border-radius: 20px;
+}
+.textClass p {
+  font-weight: 400px;
+  font-size: 15px;
+  line-height: 18.9px;
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 40px;
+  padding-left: 16px;
+  padding-right: 16px;
+  background-color: white;
+}
